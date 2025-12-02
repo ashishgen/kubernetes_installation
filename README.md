@@ -1,5 +1,5 @@
 # kubernetes
-![Banner](kubernetes.png)
+![Banner](Banner.png) 
 
 
 
